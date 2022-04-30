@@ -1,3 +1,14 @@
-body {
-    background-image:url('assets/shrek1.jpeg') no-repeat;
+/*body {
+    
+    
+}*/
+
+body::before{
+    background-image:url('assets/shrek1.jpeg');
+    background-repeat: no-repeat;
+    opacity: 0.6;
+    /*background-size: 100% 100%;*/
+    
+    width: 100%;
+    /*height: 600px;*/
 }
