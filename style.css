@@ -1,8 +1,3 @@
-/*body {
-    
-    
-}*/
-
 body::before{
     background: url(assets/shrek1.jpeg);
     background-repeat: no-repeat;
